@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(184, 239, 221);
+    font-size: 20px;
+}
+
+h1{
+    background-color: rgb(30, 87, 88);
+    text-align: center;
+    color: rgb(76, 162, 133) ;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2{
+   
+    background-color:rgb(30, 87, 88);
+    color: rgb(191, 236, 221);
+    padding: 10px;
+}
+
+ul{
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px
+}
+
+a{
+    color: rgb(30, 87, 88);
+}
